@@ -1,1 +1,1 @@
-# Arduino-Certification-Bundle-Journey
+# Arduino Certification Bundle Journey
